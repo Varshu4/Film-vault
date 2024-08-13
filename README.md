@@ -13,7 +13,7 @@
 
 - **Watchlist Tab**:
   - Displays movies in a table format with columns for Movie Name, Rating, Popularity, Genre, and a delete option.
-  - Includes genre-based filtering and sorting by rating in ascending or descending order.
+  - Includes genre-based filtering and sorting by rating and popularity in ascending or descending order.
   
 - **Search**: Users can search for movies by name.
 
